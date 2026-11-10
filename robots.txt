@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://fredericksburghvacco.com/sitemap.xml
